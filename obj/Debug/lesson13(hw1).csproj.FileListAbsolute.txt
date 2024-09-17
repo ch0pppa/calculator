@@ -1,0 +1,7 @@
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\obj\Debug\lesson13(hw1).csproj.AssemblyReference.cache
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\obj\Debug\lesson13(hw1).csproj.CoreCompileInputs.cache
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\bin\Debug\lesson13(hw1).exe.config
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\bin\Debug\lesson13(hw1).exe
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\bin\Debug\lesson13(hw1).pdb
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\obj\Debug\lesson13(hw1).exe
+E:\source\repos\lesson13(hw1)\lesson13(hw1)\obj\Debug\lesson13(hw1).pdb
